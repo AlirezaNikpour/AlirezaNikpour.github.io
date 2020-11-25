@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdecef96-552b-4dff-aef8-a16bf2d993d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CV.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/css/owl-carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/alireza1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/alireza2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/alireza3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/educations.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/experience.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/skills.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/js/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="bdecef96-552b-4dff-aef8-a16bf2d993d2" name="Default Changelist" comment="first view of CV">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +49,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606254399044</updated>
-      <workItem from="1606254405461" duration="11138000" />
+      <workItem from="1606254405461" duration="14058000" />
     </task>
+    <task id="LOCAL-00001" summary="first view of CV">
+      <created>1606266601965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606266601965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first view of CV" />
+    <option name="LAST_COMMIT_MESSAGE" value="first view of CV" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606266729991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606266729991" />
   </component>
 </project>
