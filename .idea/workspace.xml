@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdecef96-552b-4dff-aef8-a16bf2d993d2" name="Default Changelist" comment="first view of CV">
+      <change afterPath="$PROJECT_DIR$/asset/js/act.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/js/js2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/js/jscript.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CV.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/js/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/asset/js/js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +32,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1kkpLseOrOG2gRCOgo29V5PcvjA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,9 +63,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CV/asset/css/styles.scss" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +85,11 @@
       <workItem from="1606509417521" duration="2251000" />
       <workItem from="1606511971421" duration="1763000" />
       <workItem from="1607023543737" duration="8968000" />
+      <workItem from="1607109030959" duration="2587000" />
+      <workItem from="1607299002654" duration="3520000" />
+      <workItem from="1607311956268" duration="4644000" />
+      <workItem from="1607410075361" duration="5679000" />
+      <workItem from="1607454569697" duration="28104000" />
     </task>
     <task id="LOCAL-00001" summary="first view of CV">
       <created>1606266601965</created>
@@ -89,9 +121,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="first view of CV" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="462" y="116" key="#HTTP_Proxy" timestamp="1607111533623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="116" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1607111533623" />
+    <state x="522" y="69" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1607455770028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="522" y="69" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1607455770028" />
+    <state x="413" y="144" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1607111889131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="144" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1366.728@0.0.1366.728" timestamp="1607111889131" />
+    <state x="352" y="50" width="780" height="678" key="EditFileWatcherDialog" timestamp="1607455828669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="50" width="780" height="678" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1607455828669" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1607455822048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607455822048" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1607455830582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607455830582" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606266729991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606266729991" />
+    <state x="534" y="222" key="scopes" timestamp="1607455379282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="222" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1607455379282" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
