@@ -1,6 +1,8 @@
 window.addEventListener('load', (event) => {
     let loader = document.getElementById("loader");
+    setTimeout(function() {
     loader.remove();
+    },4000);
 });
 $(document).ready(function() {
     const swiper = new Swiper('.nizek-slider', {
