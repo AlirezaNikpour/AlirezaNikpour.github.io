@@ -1,4 +1,7 @@
-
+window.addEventListener('load', (event) => {
+    let loader = document.getElementById("loader");
+    loader.remove();
+});
 $(document).ready(function() {
     const swiper = new Swiper('.nizek-slider', {
         calculateHeight:true,
@@ -21,9 +24,6 @@ $(document).ready(function() {
         },
 
     });
-
-
-
     swiper.on('slideChangeTransitionStart', function () {
         $(".nizek-slider__item > a > .nizek-slider__img > .nizek-slider__mask" ).css("clip-path", "polygon(0 100%, 100% 100%, 100% 100%, 0 100%)");
         setTimeout( function(){
